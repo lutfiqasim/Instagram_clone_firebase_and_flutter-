@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745503800412",
+    "project_id": "instagram-clone-beed8",
+    "storage_bucket": "instagram-clone-beed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745503800412:android:74e7adb632870bd148ba99",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instagram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhqCTNgrPMe0qV663GLyg2d8rgCUICrKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
