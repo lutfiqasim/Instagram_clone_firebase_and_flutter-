@@ -5,6 +5,16 @@ This is a basic Instagram clone designed to be responsive and functional, featur
 ## Getting Started
 
 This project serves as a learning platform for mastering Flutter and integrating Firebase for cross-platform mobile and web application development within a single codebase.
+## In app photos
+![Screen 1](/screenshots/login.jpeg)
+![Screen 1](/screenshots/signup.jpeg)
+![Screen 1](/screenshots/feed.jpeg)
+![Screen 1](/screenshots/post.jpeg)
+![Screen 1](/screenshots/search.jpeg)
+![Screen 1](/screenshots/searchResult.jpeg)
+![Screen 1](/screenshots/profile1.jpeg)
+![Screen 1](/screenshots/profile2.jpeg)
+
 
 ### Prerequisites
 
